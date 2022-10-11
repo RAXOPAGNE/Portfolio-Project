@@ -35,4 +35,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Website URL
 
 ## Acceptance Criteria
-file:///C:/Users/Oskar/bootcamp/student/portfolio-project/index.html
+https://raxopagne.github.io/Portfolio-Project/
